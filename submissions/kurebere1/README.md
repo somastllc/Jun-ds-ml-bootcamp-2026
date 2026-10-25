@@ -20,4 +20,4 @@ Folder-kan waa meesha aan ku kaydiyo uguna gudbiyo dhammaan shaqooyinka bootcamp
 ---
 
 **Magac:** Mahmud Ali Yousuf (Kure Bere)  
-**Course-da:** DS & ML Bootcamp by Goobo Labs`
+**Course-da:** DS & ML Bootcamp by Somast`

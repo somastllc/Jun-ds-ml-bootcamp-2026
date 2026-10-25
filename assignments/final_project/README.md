@@ -140,4 +140,4 @@ Lesson 7 covers deployment concepts at a high level. Your final project applies 
 
 ---
 
-*Goobo Labs DS/ML Bootcamp — Final capstone folder*
+*Somast DS/ML Bootcamp — Final capstone folder*

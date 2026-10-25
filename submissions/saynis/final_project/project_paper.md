@@ -2,7 +2,7 @@
 
 ## Hidden Market Regime Discovery and Staple Food Price Shock Prediction using Machine Learning
 
-**Bootcamp:** Goobo Labs DS/ML Bootcamp 2026  
+**Bootcamp:** Somast DS/ML Bootcamp 2026  
 **Repository:** https://github.com/saynis/SuuqPulse_AI  
 **API:** https://suuqpulseai-production.up.railway.app  
 **Frontend Dashboard:** https://suuq-pulse-ai.vercel.app  

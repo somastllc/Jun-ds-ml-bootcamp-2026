@@ -24,7 +24,7 @@ Move from **unreal to real**, from **unimaginable to imaginable** — by practic
 
 ## 🎥 Course Videos
 
-All lessons, assignments, and bonus sessions are available as **unlisted videos** on the **Goobo Labs YouTube Channel**.
+All lessons, assignments, and bonus sessions are available as **unlisted videos** on the **Somast YouTube Channel**.
 Follow them in order for the best learning experience. 🚀
 
 | #  | Title                                                  | Watch                                                                  |
@@ -47,7 +47,7 @@ Follow them in order for the best learning experience. 🚀
 | 16 | Assignment Five                                        | [▶️ Watch](https://youtu.be/VtGmjvO3q48) |
 | 17 | Lesson Seven (Theory) — Clustering                     | [▶️ Watch](https://youtu.be/hxcXSruYJaw) |
 | 18 | Lesson Seven (Practice) — Clustering in Action         | [▶️ Watch](https://youtu.be/wsvKURbH_I8) |
-| 19 | Assignment Six                                         | [📝 Assignment](https://github.com/goobolabs/ds-ml-bootcamp/blob/main/assignments/assignment-six.md) |
+| 19 | Assignment Six                                         | [📝 Assignment](https://github.com/somastllc/ds-ml-bootcamp/blob/main/assignments/assignment-six.md) |
 | 20 | Lesson Eight — Deployment                              | [▶️ Watch](https://youtu.be/93bqaT6d908) |
 | 21 | Final Project                                          | [▶️ Watch](https://youtu.be/w8IV1sK5GMM) |
 | 22 | Bonus — Math for Data Science & Machine Learning        | [▶️ Watch](https://youtu.be/_qHl9EZqL8I) |
@@ -86,7 +86,7 @@ This bootcamp is fully sponsored by:
 
 ## 📄 License
 
-Copyright © 2026 Goobo Labs. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Copyright © 2026 Somast. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

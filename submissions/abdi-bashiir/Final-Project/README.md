@@ -199,4 +199,4 @@ The three algorithms, evaluation metrics, and best-model selection rule are unch
 
 ---
 
-<p align="center"><i>Built as part of the Goobo Labs DS/ML Bootcamp final capstone project.</i></p>
+<p align="center"><i>Built as part of the Somast DS/ML Bootcamp final capstone project.</i></p>

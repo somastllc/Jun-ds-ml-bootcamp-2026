@@ -1,7 +1,7 @@
 # 🧠 WellMind AI: Lifestyle Category Classification and API Deployment
 
 **👩‍💻 Author:** Maryan Mohamed Adam
-**🎓 Bootcamp:** DS-ML Bootcamp (Goobo Labs)
+**🎓 Bootcamp:** DS-ML Bootcamp (Somast)
 **📌 Project:** Final Project — ML Model Development and Deployment
 **📅 Date:** July 2026
 
@@ -181,4 +181,4 @@ WellMind AI successfully demonstrates the complete machine learning workflow, fr
 - Imaginative_Coder. *Sleep Health Data*. Kaggle. https://www.kaggle.com/datasets/imaginativecoder/sleep-health-data-sampled
 - Scikit-learn Documentation: https://scikit-learn.org/stable/
 - XGBoost Documentation: https://xgboost.readthedocs.io/
-- Course materials: Data Science & Machine Learning (DS-ML) Bootcamp, Goobo Labs
+- Course materials: Data Science & Machine Learning (DS-ML) Bootcamp, Somast

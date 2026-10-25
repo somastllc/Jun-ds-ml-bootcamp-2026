@@ -120,9 +120,9 @@ I would like to express my deepest gratitude to the incredible individuals and o
         <i>Instructor</i>
       </td>
       <td align="center">
-        <a href="https://github.com/goobolabs">
-          <img src="https://github.com/goobolabs.png" width="100px;" style="border-radius:50%;" alt="Goobolabs"/><br />
-          <b>Goobolabs</b>
+        <a href="https://github.com/somastllc">
+          <img src="https://github.com/somastllc.png" width="100px;" style="border-radius:50%;" alt="Somast"/><br />
+          <b>Somast</b>
         </a><br />
         <i>Official Sponsor</i>
       </td>

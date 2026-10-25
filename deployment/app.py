@@ -1,4 +1,4 @@
-# app.py — Goobo Classifier API (same shape as house deployment/app.py)
+# app.py — Somast Classifier API (same shape as house deployment/app.py)
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import joblib
@@ -16,7 +16,7 @@ MODELS = {
 @app.route("/", methods=["GET"])
 def home():
     return jsonify({
-        "message": "Goobo Classifier API",
+        "message": "Somast Classifier API",
         "endpoints": {
             "POST /predict?model=lr|rf": {
                 "expects_json": {
