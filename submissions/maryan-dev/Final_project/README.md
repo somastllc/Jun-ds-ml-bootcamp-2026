@@ -137,9 +137,9 @@ py -3 scripts/run_sanity_checks.py
 
 ## 🙏 Acknowledgements
 
-I would like to sincerely thank **Goobo Labs** for providing the Data Science and Machine Learning (DS-ML) Bootcamp. The knowledge, guidance .
+I would like to sincerely thank **Somast** for providing the Data Science and Machine Learning (DS-ML) Bootcamp. The knowledge, guidance .
 
-GitHub: https://github.com/goobolabs
+GitHub: somastllc
 ## 👩‍💻 Author
 
 **Maryan Mohamed Adam**

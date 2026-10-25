@@ -168,7 +168,7 @@ https://github.com/Hayatmohamud/jobshield-ai_ML
 
 ## Acknowledgement
 
-I would like to express my sincere appreciation to **https://github.com/goobolabs**, the instructors, mentors, and everyone who supported me throughout this Machine Learning learning journey.
+I would like to express my sincere appreciation to **Somast** (@somastllc), the instructors, mentors, and everyone who supported me throughout this Machine Learning learning journey.
 
 Their guidance and encouragement helped me complete this end-to-end Machine Learning capstone project.
 

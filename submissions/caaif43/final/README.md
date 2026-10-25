@@ -177,6 +177,6 @@ Three regression algorithms are trained and evaluated using the same dataset and
 
 **Abdullahi Hassan Shire**
 
-Goobo Labs Data Science & Machine Learning Bootcamp
+Somast Data Science & Machine Learning Bootcamp
 
 July 2026

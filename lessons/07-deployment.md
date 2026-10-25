@@ -142,7 +142,7 @@ All of these can work:
 - `joblib.dump(model, "model.joblib")`
 - `joblib.dump(model, "model.pkl")` — same `joblib` format, different filename
 
-The extension does **not** decide the format by itself. Still, prefer `.joblib` for joblib files and `.pkl` for pickle files so readers know what to expect. In our Goobo demo you will see both (e.g. `rf_model.joblib` and `loan_scaler.pkl`) — both are fine when saved/loaded with the matching tool.
+The extension does **not** decide the format by itself. Still, prefer `.joblib` for joblib files and `.pkl` for pickle files so readers know what to expect. In our Somast demo you will see both (e.g. `rf_model.joblib` and `loan_scaler.pkl`) — both are fine when saved/loaded with the matching tool.
 
 #### Security warning
 
@@ -177,7 +177,7 @@ Important ideas:
 - **JSON response** — server returns label, confidence, and often echoes the input
 - **Query params** — e.g. `?model=lr` or `?model=rf` to choose which saved model to use
 
-Example request body (loan / Goobo Classifier):
+Example request body (loan / Somast Classifier):
 
 ```json
 {
@@ -203,9 +203,9 @@ Example response shape:
 
 ---
 
-## Our Demo: Goobo Classifier
+## Our Demo: Somast Classifier
 
-We redeploy what you built in **Lesson 5** — loan approval — as a live API branded **Goobo Classifier**.
+We redeploy what you built in **Lesson 5** — loan approval — as a live API branded **Somast Classifier**.
 
 | Piece | Role |
 | --- | --- |
@@ -352,7 +352,7 @@ Your capstone expects a **served model**, not only a notebook:
 - Document the JSON input fields clearly.
 - Optional: a small UI that calls your API.
 
-Use this Goobo Classifier folder as the template: process → train/save → utils → Flask app.
+Use this Somast Classifier folder as the template: process → train/save → utils → Flask app.
 
 ---
 
@@ -362,7 +362,7 @@ Use this Goobo Classifier folder as the template: process → train/save → uti
 - Save the **model** and everything needed for **identical preprocessing** at prediction time.
 - Use **`joblib`** (preferred for scikit-learn) or **`pickle`** to serialize models — never load untrusted `.pkl` / `.joblib` files.
 - A beginner-friendly pattern is a **Flask REST API** (`POST /predict`) plus an optional web UI.
-- Our demo reuses the **Lesson 5 loan classifier** as **Goobo Classifier** under [`deployment/`](../deployment/).
+- Our demo reuses the **Lesson 5 loan classifier** as **Somast Classifier** under [`deployment/`](../deployment/).
 - Run: `processing.py` → `model.py` → `app.py`, then test with curl or the Next.js client.
 - After go-live, **monitor** performance and **retrain** when data or metrics drift.
 - **Next (optional):** Continue with the [bonus guides](../bonus/README.md) — Deep Learning, math refreshers, AI/GenAI, career path, portfolio, and ethics.

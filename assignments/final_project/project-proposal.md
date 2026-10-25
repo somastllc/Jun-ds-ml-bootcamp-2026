@@ -24,7 +24,7 @@ Length: **1–2 pages**. Write in clear English. Use your own words.
 
 ### 1. Certificate Name
 
-- Your **full name** exactly as you want it written on your **Goobo Labs certificate**.
+- Your **full name** exactly as you want it written on your **Somast certificate**.
 - Use correct spelling and capitalization (e.g. `Ahmed Hassan Mohamed`, not a nickname or username).
 - This is collected once in the proposal — if you need a correction later, contact your instructor before certificates are issued.
 

@@ -1,6 +1,6 @@
-# Goobo Classifier Client
+# Somast Classifier Client
 
-Next.js UI for **Goobo Classifier** (loan approval demo). Uses `public/logo.svg` in the header, `public/icon.svg` as the favicon, and the Goobo Labs brand system (mint `#3acc69`, Space Grotesk + Manrope).
+Next.js UI for **Somast Classifier** (loan approval demo). Uses `public/logo.svg` in the header, `public/icon.svg` as the favicon, and the Somast brand system (mint `#3acc69`, Space Grotesk + Manrope).
 
 ## Run
 

@@ -13,7 +13,7 @@ type PredictResponse = {
 type Theme = "light" | "dark";
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
-const THEME_KEY = "goobo-theme";
+const THEME_KEY = "somast-theme";
 
 function applyTheme(theme: Theme) {
   document.documentElement.classList.toggle("dark", theme === "dark");
@@ -113,7 +113,7 @@ export default function HomePage() {
         <header className="mb-12 flex items-center justify-between gap-4">
           <img
             src="/logo.svg"
-            alt="Goobo Labs"
+            alt="Somast"
             className="h-9 w-auto md:h-10"
             width={240}
             height={68}
@@ -143,7 +143,7 @@ export default function HomePage() {
             className="text-base leading-relaxed"
             style={{ color: "var(--muted)" }}
           >
-            Enter an applicant profile. Goobo Classifier returns Approved or
+            Enter an applicant profile. Somast Classifier returns Approved or
             Rejected using the same Lesson 5 models you trained in class.
           </p>
         </div>
@@ -247,7 +247,7 @@ export default function HomePage() {
                   color: "#0a0b0a",
                 }}
               >
-                {loading ? "Checking…" : "Run Goobo Classifier"}
+                {loading ? "Checking…" : "Run Somast Classifier"}
               </button>
 
               {error ? (
@@ -273,7 +273,7 @@ export default function HomePage() {
           style={{ borderColor: "var(--border)" }}
         >
           <p className="brand text-base font-semibold tracking-tight">
-            Goobo Classifier
+            Somast Classifier
           </p>
           <p className="mt-1 text-sm" style={{ color: "var(--muted)" }}>
             Loan approval · DS/ML Bootcamp
@@ -285,16 +285,16 @@ export default function HomePage() {
           </p>
           <p className="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm">
             <a
-              href="https://www.goobolabs.so/"
+              href="https://www.somast.so/"
               target="_blank"
               rel="noopener noreferrer"
               className="underline-offset-4 transition hover:underline"
               style={{ color: "var(--mint-700)" }}
             >
-              goobolabs.so
+              somast.so
             </a>
             <a
-              href="https://github.com/goobolabs/ds-ml-bootcamp"
+              href="https://github.com/somastllc/ds-ml-bootcamp"
               target="_blank"
               rel="noopener noreferrer"
               className="underline-offset-4 transition hover:underline"

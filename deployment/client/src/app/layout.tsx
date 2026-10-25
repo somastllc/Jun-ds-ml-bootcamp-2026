@@ -13,8 +13,8 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Goobo Classifier",
-  description: "Goobo Classifier — loan approval prediction by Goobo Labs",
+  title: "Somast Classifier",
+  description: "Somast Classifier — loan approval prediction by Somast",
   icons: {
     icon: "/icon.svg",
   },
@@ -30,7 +30,7 @@ export default function RootLayout({
       <head>
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem("goobo-theme");if(t==="dark"||(t!=="light"&&matchMedia("(prefers-color-scheme: dark)").matches))document.documentElement.classList.add("dark")}catch(e){}})();`,
+            __html: `(function(){try{var t=localStorage.getItem("somast-theme")||localStorage.getItem("goobo-theme");if(t==="dark"||(t!=="light"&&matchMedia("(prefers-color-scheme: dark)").matches))document.documentElement.classList.add("dark")}catch(e){}})();`,
           }}
         />
       </head>

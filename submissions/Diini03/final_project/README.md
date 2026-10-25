@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether an incoming displacement event in Somalia will be large (affecting more than 100 people) or small — based on early signals like the cause, region, month, and event duration.
 
-Built as the capstone project for the Goobo Labs DS/ML Bootcamp 2026.
+Built as the capstone project for the Somast DS/ML Bootcamp 2026.
 
 ---
 

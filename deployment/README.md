@@ -1,6 +1,6 @@
-# Goobo Classifier Deployment
+# Somast Classifier Deployment
 
-Loan approval demo branded as **Goobo Classifier**. Same simple layout as the house demo: process → train/save → Flask API → client UI.
+Loan approval demo branded as **Somast Classifier**. Same simple layout as the house demo: process → train/save → Flask API → client UI.
 
 ```
 deployment/
@@ -9,7 +9,7 @@ deployment/
 ├── utils.py        # raw form → model features
 ├── app.py          # Flask /predict?model=lr|rf
 ├── models/         # artifacts
-└── client/         # Goobo-branded Next.js UI
+└── client/         # Somast-branded Next.js UI
 ```
 
 ## Setup

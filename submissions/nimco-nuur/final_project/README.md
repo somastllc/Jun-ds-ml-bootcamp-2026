@@ -3,7 +3,7 @@
 
 ## Intelligent Inventory Management and Stockout Prediction System
 
-**StockSense AI** is a full-stack machine learning application developed as the final capstone project for the Goobo Labs Data Science & Machine Learning Bootcamp.
+**StockSense AI** is a full-stack machine learning application developed as the final capstone project for the Somast Data Science & Machine Learning Bootcamp.
 
 The system helps businesses manage inventory more efficiently by combining **K-Means Clustering** and **Machine Learning Classification** to categorize inventory and predict stockout risks before they occur.
 
@@ -162,7 +162,7 @@ https://github.com/nimco-nuur/stocksense-ai/tree/main
 
 **Name:**  Nimco Nor gesey
 
-Goobo Labs Data Science & Machine Learning Bootcamp
+Somast Data Science & Machine Learning Bootcamp
 
 Final Capstone Project
 

@@ -1,6 +1,6 @@
 # Project Paper — Somalia Displacement Severity Classifier
 
-**Bootcamp:** Goobo Labs DS/ML Bootcamp 2026
+**Bootcamp:** Somast DS/ML Bootcamp 2026
 **Repository:** https://github.com/Diini03/somalia-displacement-classifier
 
 - **API:** Render — https://somalia-displacement.onrender.com
